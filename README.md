@@ -35,7 +35,7 @@ Open your terminal and go to a location where you wish to clone the project, the
 
 Expo will then open a window on your computer browser through which you will be able to direct to either view the device on iOS simulator, web browser, Android device/emulator, etc.  
 
-## Credits: 
+## Credits & Resources: 
 * [Open Trivia Database API](https://opentdb.com/)  
 * Mike Bostock's explanation of the [Fisher-Yates Shuffle](https://bost.ocks.org/mike/shuffle/)
 * Selected inspiration and guidance from [James Q Quick](https://www.youtube.com/watch?v=u98ROZjBWy8&list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx) and [Fahad A.](https://github.com/fahadahmed07/react-native-quiz-app)  
