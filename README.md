@@ -26,7 +26,7 @@ This mobile application has not been deployed to any app store, but can be run u
 `npm install -g expo-cli`  
 
 ### Running the Application
-Open your terminal and go to a location where you wish to clone the project, then type:  
+Open your terminal and go to a location where you wish to clone the project, then run:  
   
 `git https://github.com/annamgithub/science-genius.git`  
 `cd science-genius`  
