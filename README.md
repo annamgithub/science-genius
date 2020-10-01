@@ -1,6 +1,6 @@
 # Science Genius
 
-![Science genius app images](https://www.annaexplores.com/static/science-genius-60802cd2831e8da8b5822b353beb683d.png)
+![Science genius app images](https://annaexplores.com/static/media/science.60802cd2.png)
 
 ## Overview
 Science Genius is a mobile application built using React Native. It seeks to provide educational entertainment in the format of a multiple choice science trivia game.  
